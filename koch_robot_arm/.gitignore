@@ -1,0 +1,10 @@
+.idea/
+.DS_Store
+__pycache__/
+
+# Ignore ROS 2 workspace build, install, and log directories
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+calibration/
